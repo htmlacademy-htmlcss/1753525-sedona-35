@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Sofia Filippova](https://up.htmlacademy.ru/htmlcss/35/user/1753525).
-* Наставник: `Неизвестно`.
+* Наставник: `Роман Марченко` (https://htmlacademy.ru/profile/id505487).
 
 ---
 
